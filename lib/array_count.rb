@@ -2,6 +2,7 @@ def count_strings(array)
   count = 0 
   array.count do |element|
     element.is_a?(String)  
+    puts 1 
   end
   count
 end
