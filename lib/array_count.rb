@@ -1,7 +1,7 @@
 def count_strings(array)
   count = 0 
   array.count do |element|
-    true 
+    
   end
   puts count
 end
