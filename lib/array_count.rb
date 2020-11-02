@@ -1,7 +1,6 @@
 def count_strings(array)
   count = 0 
   array.count do |String|
-    x.String?
   end
   count
 end
